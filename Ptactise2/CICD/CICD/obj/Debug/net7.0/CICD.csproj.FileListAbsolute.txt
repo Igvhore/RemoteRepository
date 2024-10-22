@@ -1,0 +1,14 @@
+G:\Local Repository\Ptactise2\CICD\CICD\bin\Debug\net7.0\CICD.exe
+G:\Local Repository\Ptactise2\CICD\CICD\bin\Debug\net7.0\CICD.deps.json
+G:\Local Repository\Ptactise2\CICD\CICD\bin\Debug\net7.0\CICD.runtimeconfig.json
+G:\Local Repository\Ptactise2\CICD\CICD\bin\Debug\net7.0\CICD.dll
+G:\Local Repository\Ptactise2\CICD\CICD\bin\Debug\net7.0\CICD.pdb
+G:\Local Repository\Ptactise2\CICD\CICD\obj\Debug\net7.0\CICD.GeneratedMSBuildEditorConfig.editorconfig
+G:\Local Repository\Ptactise2\CICD\CICD\obj\Debug\net7.0\CICD.AssemblyInfoInputs.cache
+G:\Local Repository\Ptactise2\CICD\CICD\obj\Debug\net7.0\CICD.AssemblyInfo.cs
+G:\Local Repository\Ptactise2\CICD\CICD\obj\Debug\net7.0\CICD.csproj.CoreCompileInputs.cache
+G:\Local Repository\Ptactise2\CICD\CICD\obj\Debug\net7.0\CICD.dll
+G:\Local Repository\Ptactise2\CICD\CICD\obj\Debug\net7.0\refint\CICD.dll
+G:\Local Repository\Ptactise2\CICD\CICD\obj\Debug\net7.0\CICD.pdb
+G:\Local Repository\Ptactise2\CICD\CICD\obj\Debug\net7.0\CICD.genruntimeconfig.cache
+G:\Local Repository\Ptactise2\CICD\CICD\obj\Debug\net7.0\ref\CICD.dll
